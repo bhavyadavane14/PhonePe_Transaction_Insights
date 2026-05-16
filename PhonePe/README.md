@@ -43,8 +43,7 @@ Top states by transaction amount
 Top districts by registered users
 Insurance trends
 
-**Run Project
-=======
+
 # PhonePe Data Visualization and Exploration
 
 A data analytics and visualization project built using Python, SQL, Streamlit, Plotly, and Pandas to analyze PhonePe Pulse transaction data across India.
