@@ -3,11 +3,11 @@
 A data analytics and visualization project built using Python, SQL, Streamlit, Plotly, and Pandas to analyze PhonePe Pulse transaction data across India.
 
 **The project provides interactive dashboards for:
-Transaction Analysis
-User Analysis
-Insurance Analysis
-State-wise Insights
-Top Charts and Trends
+1.Transaction Analysis
+2.User Analysis
+3.Insurance Analysis
+4.State-wise Insights
+5.Top Charts and Trends
 
 **Technologies Used
 Python
